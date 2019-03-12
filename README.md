@@ -1,5 +1,11 @@
 # vue-shimmer-effect
 
+# Install Vue Content Loading
+```
+npm install vue-content-loading --save
+```
+by https://lucasleandro1204.github.io/vue-content-loading/#/
+
 ## Project setup
 ```
 npm install
